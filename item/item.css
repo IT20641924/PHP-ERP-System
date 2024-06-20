@@ -1,0 +1,86 @@
+#itable {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 18.5px 180px;
+    
+  }
+  
+   td {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #857b7b;
+    height: 40px;
+    font-size: 22px;
+    
+  }
+
+ 
+  
+  tr:hover {background-color: rgb(213, 211, 236);}
+
+  #item1
+  {
+    background-color: #89ebe2;
+    height: 50px;
+    font-size: 25px;
+    
+  }
+  
+  .btnEi{
+    background-color: #3557ec; 
+  border: none;
+  color: rgb(10, 10, 10);
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20px;
+  width: 110px;
+  height: 55px;
+  
+  }
+
+  .btnDi{
+    background-color: #eb2c4c; 
+  border: none;
+  color: rgb(10, 10, 10);
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20px;
+  width: 100px;
+  height: 55px;
+  
+  }
+
+  #btnadd{
+    background-color: #28da37; 
+    border: none;
+    color: rgb(10, 10, 10);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: -300px 1550px -80px 175px;
+    cursor: pointer;
+    border-radius: 20px;
+    width: 100px;
+    height: 55px;
+    font-family:'Times New Roman', Times, serif;
+    
+  }
+
+  #iheader{
+    margin:0px 500px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+  }
